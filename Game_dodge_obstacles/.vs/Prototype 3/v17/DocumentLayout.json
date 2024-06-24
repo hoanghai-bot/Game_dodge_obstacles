@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 3\\Prototype 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 3\\Prototype 3\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|d:\\tutorial\\tutorial-unity\\prototype\\create with code\\prototype 3\\prototype 3\\assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 3\\Prototype 3\\assets\\scripts\\spawn manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawn manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 3\\Prototype 3\\assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54D4F09-CE3B-6305-6007-C14992BF309F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepeatBackground.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 3\\Prototype 3\\Assets\\Scripts\\RepeatBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepeatBackground.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 3\\Prototype 3\\Assets\\Scripts\\RepeatBackground.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepeatBackground.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:44:03.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spawn Manager.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 3\\Prototype 3\\Assets\\Scripts\\Spawn Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawn Manager.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 3\\Prototype 3\\Assets\\Scripts\\Spawn Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawn Manager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:40:44.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveLeft.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 3\\Prototype 3\\Assets\\Scripts\\MoveLeft.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveLeft.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 3\\Prototype 3\\Assets\\Scripts\\MoveLeft.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveLeft.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:39:08.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 3\\Prototype 3\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\tutorial\\tutorial-unity\\prototype\\Create with Code\\Prototype 3\\Prototype 3\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:32:29.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
